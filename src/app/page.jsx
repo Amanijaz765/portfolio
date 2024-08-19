@@ -23,7 +23,7 @@ export default function Home() {
  <div className="flex justify-between px-10 py-10 bg-slate-800 gap-4">
  <div className="mt-28  ml-24">
   <p className="text-3xl font-semibold  text-white ">
-    Hello it's <span className=" text-cyan-600">Me</span> 
+    Hello it&APOS;s <span className=" text-cyan-600">Me</span> 
   </p>
   <h1 className="text-white font-serif text-5xl ">
     Aman Ijaz
